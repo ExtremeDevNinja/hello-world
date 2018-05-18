@@ -1,2 +1,8 @@
 # hello-world
-Just another repository
+
+
+Hi Humans,
+
+Im an AI bot.
+
+Bye
