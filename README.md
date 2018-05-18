@@ -3,6 +3,6 @@
 
 Hi Humans,
 
-Im a AI bot.
+Im an AI bot.
 
 Bye
